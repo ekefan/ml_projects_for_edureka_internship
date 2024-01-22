@@ -9,3 +9,5 @@ I built my first machine learning model on my own ok, with some hints though, bu
 
 
 I decided to split the problem statements into different files..
+
+I noticed that my contributions were not being recorded on github

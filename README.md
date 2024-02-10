@@ -4,10 +4,13 @@
 From this project I was able to apply concepts I learned after going through resources that<br>
 introduced me to python, and data science related libraries, matplotlib, pandas, numpy and seaborn<br>
 
-## Surpervised Learning:
-I built my first machine learning model on my own ok, with some hints though, but it was cool anyway
+## Consumer Complaint Analysis
+Sincerely my experience with edureka hasn't been fine. But I learned something, the problem isn't <br>
+the courses, its me. I have been trying to do too many things at once<br>
+This project was completed with chatgpt mainly, because I still do not understand so many things required
 
 
-I decided to split the problem statements into different files..
 
-I noticed that my contributions were not being recorded on github
+I dedicated to repo to post my little beginnings with data science, AI/Ml; a confused space in the tech industry <br>
+I still want to make good grades in school, so I will be studying ML maths and practicing Ml algorithms as often as <br>
+I can. While I work towards getting that paper degree, and advocating for social development in sch <br>
